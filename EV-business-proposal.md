@@ -15,11 +15,44 @@ The Department of Energy has revealed new research funding opportunities focusin
 
 
 ### Client:
-Ford Motor Company (otherwise known as Ford) is refining their electric vehicle strategy. Their current plan being implemented is to make the transition to EVs smooth and seamless. Thus, they are electrifying three of their most iconic vehicles:
+Ford Motor Company (otherwise known as Ford) is refining their electric vehicle strategy.<sup>[2](https://media.ford.com/content/fordmedia/fna/us/en/news/2021/05/19/the-ford-electric-vehicle-strategy--what-you-need-to-know.html)</sup> Their current plan being implemented is to make the transition to EVs smooth and seamless. Thus, they are electrifying three of their most iconic vehicles:
 * Mustang Mach-E (electrified Mustang)
 * E-Transit (electrified Transit, the USA's best-selling van).
 * F-150 Lighting (Ford F-150, USA's top-selling truck)
 
+![all 3 ford EVs](images/ford-ev-fam.jpeg)
+
 The key demographic targeted by Ford is the commerical van and pickup industries. Currently, they are under-emphasized in the EV industry. Ford plans to provide these customers with more accessible pricing, enhanced productivity, and decreased ownership costs.
 
-Ford has a variety of home charging solutions. In addition, they possess North America's largest public charging network, 63,000+ charging plugs.<sup>1</sup>
+Ford is well-equiped to handle the EV transition for their consumers. They own North America's largest public charging network, 63,000+ charging plugs. The EVs have Cloud connected navigation, which directs EV owners to the nearest charging stations and gives recommendations on places to charge on trips. Additionally, Ford customers can utilize a FordPass which provides easy access and payment for charging stations.
+
+## Purpose/ Problem:
+
+To leverage and expand Ford's EV resources to better assist under-served communities and regions in-need of improved EV infrastructure, with a specific focus on van and pickup truck users. 
+
+#### Data Science Solution Path:
+
+#### Impact Hypothesis:
+
+#### Measures of Success:
+
+#### Risks and Assumptions:
+
+## Data:
+- [Federal Highway Administration - Highway Statistics 2019](https://www.fhwa.dot.gov/policyinformation/statistics/2019/)
+- [Department of Energy: Energy Efficiency and Renewable Energy - Alternative Fuels Data Center](https://afdc.energy.gov/data_download/)
+
+## Algorithms:
+- Thorough exploratory analysis in Excel and Tableau.
+- Datasets will be cleaned and currated for exploration, aggregation, and visualization.
+
+## Tools:
+- Excel/ Google Sheets.
+- Tableau visualization
+- Exploratory Analysis and Visualization in Python via Pandas and Plotly respectively.
+
+## Minimum Viable Product:
+- Graph/ Chart of current and future charging stations.
+- Visualization of areas with large amounts of van and pickup truck users. 
+
+
