@@ -112,6 +112,15 @@ The algorithm of interest for discovering the natural groups of truck customers 
 - Tableau visualization
 - PowerPoint for presentation/ pitch.
 
+### Visuals:
+- Tableau
+    - [Truck Registration and EV charging stations Dashboard](https://public.tableau.com/app/profile/louisa.reilly/viz/EV_Charge_Truck_Van/Dashboard1)
+    - [Rural Area Inequality and Transit Access Dashboard](https://public.tableau.com/app/profile/louisa.reilly/viz/adopt_ev/NoVehicleHH)
+- Excel/Sheets
+    - [Vehicle Registration and Pickup Sales](https://drive.google.com/file/d/1f_OABwwDtmueD4rspmIt1og5_RXHw1OU/view?usp=sharing)
+    - [Rural Transit Access Viz](https://drive.google.com/file/d/1ZSLMATZvGjxOhc1BtvJioeBb2pOQex_N/view)
+        - Note the file is too large to show in sheets, but there are many vizualizations. 
+    
 ### Sources:
 1. [Biden Administration Advances Electric Vehicle Charging Infrastructure](https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/22/fact-sheet-biden-administration-advances-electric-vehicle-charging-infrastructure/)
 2. [The Ford Electric Vehicle Strategy: What you need to Know](https://media.ford.com/content/fordmedia/fna/us/en/news/2021/05/19/the-ford-electric-vehicle-strategy--what-you-need-to-know.html)
