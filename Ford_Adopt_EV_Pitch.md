@@ -87,7 +87,7 @@ The algorithm of interest for discovering the natural groups of truck customers 
 - Customers can afford an EV and to potentially replace or repair its battery.
 
 ### Risks:
-- Lose money from building EV charging station(s), but the station(s) is/are seldom used.
+- Some of the EV charging stations are seldom used, resulting in a loss in revenue.
 - Copper theft of new EV charging stations.
 - Ground Fault Circuit Interrupter (GFCI) breaker failure.
 - Unforseen EV charging station maintenance issues due to the weather. e.g. lightning, heat, humidity, cold, and snow/ice.
